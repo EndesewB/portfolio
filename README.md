@@ -1,2 +1,1 @@
-# portfolio
-presentation day
+Easymine project comming soon
